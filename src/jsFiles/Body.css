@@ -1,0 +1,150 @@
+#parse-ampersand, #exportBtn, #issueButton, #jiraTestBtn, #jiraTestSubmit, #jiraTestCancel, #itemLevelParseBtn, .thankyou {
+    margin-top: 10px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  
+  #companyGoesHere {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  
+  #tableExcel, #transactionTable, #paramLookUpResult, #proxyHeaders {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    padding-bottom: 30px;
+  }
+  
+  #tableExcel td, #tableExcel th, #transactionTable td, #transactionTable th, #paramLookUpResult td, #paramLookUpResult th, #proxyHeaders td, #proxyHeaders th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #tableExcel tr:nth-child(even), #transactionTable tr:nth-child(even), #paramLookUpResult tr:nth-child(even), #proxyHeaders tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  #tableExcel tr:hover, #transactionTable tr:hover, #paramLookUpResult tr:hover, #proxyHeaders tr:hover {
+    background-color: #ddd;
+  }
+  
+  #tableExcel th, #transactionTable th, #paramLookUpResult th, #proxyHeaders th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #025450;
+    color: white;
+    font-size: 20px;
+  }
+  
+  #title {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  
+  .broken-pixel {
+    background-color: #f88383;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  .highlight-red {
+    background-color: #f88383;
+  }
+  .highlight-yellow {
+    background: #ff0;
+  }
+  
+  .label-control {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  
+  .ibox-content {
+    padding-bottom: 1%;
+  }
+  
+  .overflow {
+    overflow: hidden;
+  }
+  
+  .params {
+    font-size:15px;
+    font-weight:bold;
+  }
+  
+  .params_head {
+    font-size:15px;
+    font-weight:normal;
+    color:silver;
+  }
+  
+  .paramLookUpResult {
+    height: 300px;
+    padding-bottom: 0px !important;
+    overflow: scroll;
+  }
+  
+  .pixel-label {
+    font-size: 20px;
+  }
+  
+  .red {
+    margin-top: 25px;
+  }
+  
+  .square-r {
+    height: 50px;
+    width: 50px;
+    background-color: #f88383;
+  }
+  
+  .square-y {
+    height: 50px;
+    width: 50px;
+    background-color: #ff0;
+  }
+  
+  .textLeft {
+    text-align: left;
+  }
+  
+  .working-pixel {
+    background-color: rgb(190, 243, 190);
+  }
+  
+  .x-f15 {
+    font-size: 15px;
+  }
+  
+  .x-mb10 {
+    margin-bottom: 10px;
+  }
+  
+  .x-mt5 {
+    margin-top: 5px;
+  }
+  
+  .x-mt10 {
+    margin-top: 10px;
+  }
+  
+  .x-my10 {
+    margin: 10px 0px;
+  }
+  
+  .x-pb0 {
+    padding-bottom: 0;
+  }
+  
+  .x-pt15 {
+    padding-top: 15px;
+  }
+  
+  .Body {
+      padding-top: 50px;
+  }
+ #tableGoesHere{
+  text-align: center;
+  margin-left: 215px !important;
+ }

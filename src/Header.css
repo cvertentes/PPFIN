@@ -1,0 +1,14 @@
+.logo {
+    margin-right: 10px;
+    color: white !important;
+}
+
+.navbar-pad{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar {
+    background-color: #025450 !important;
+    color: white;
+}
